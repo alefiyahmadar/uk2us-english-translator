@@ -1,0 +1,93 @@
+
+:root{
+
+    --primary-color:#1e3a8a;
+    --secondary-color:#bae6fd
+
+    ;
+
+}
+
+
+
+
+body{
+
+    background-color: var(--secondary-color);
+    
+    margin: auto;
+    text-align: center;
+    font-family: 'Mochiy Pop One', sans-serif;
+
+    
+}
+
+#header{
+
+font-weight: bold;
+color: var(--primary-color);
+padding: 1rem 1rem;
+
+}
+.img{
+    padding: 1rem 1rem ;
+    max-width: 350px;
+}
+#inputText{
+    border:  var(--primary-color);
+    height: 7rem;
+    width: 60%;
+    margin: 1rem;
+    font-size: large;
+    
+}
+#button{
+    padding: 1rem 1rem;
+    color: var(--secondary-color);
+    background-color: var(--primary-color);
+    border-radius: 1rem;
+    border-width: 2px;
+    width: 10%;
+    font-size: large;
+    border-color:#818cf8;
+    height: 3rem;
+    
+    
+    ;
+    
+    
+}
+#outputText{
+
+    background-color: white;
+    height: 7rem;
+    width: 60%;
+    padding: 1rem 1rem;
+    border: 1px solid;
+    border-color:#818cf8
+    ; 
+    margin: auto;
+    font-size: x-large;
+    
+    
+}
+.footer{
+    margin:  1rem;
+    background-color: var(--primary-color);
+    padding: 1rem 1rem;
+    border-bottom-right-radius: 1rem;
+    margin-top: 2rem;
+
+}
+.footerh{
+
+    font-weight: bold;
+    font-size: x-large;
+    color:var(--secondary-color);
+    padding: 1rem 1rem;
+}
+.about{
+    font-size: larger;
+    padding: 1rem 1rem;
+    color: var(--secondary-color);
+}
