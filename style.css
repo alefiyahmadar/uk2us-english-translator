@@ -30,7 +30,7 @@ padding: 1rem 1rem;
 
 }
 .img{
-    padding: 1rem 1rem ;
+    
     max-width: 350px;
 }
 #inputText{
@@ -39,6 +39,7 @@ padding: 1rem 1rem;
     width: 60%;
     margin: 1rem;
     font-size: large;
+    
     
 }
 #button{
@@ -68,6 +69,7 @@ padding: 1rem 1rem;
     ; 
     margin: auto;
     font-size: x-large;
+    border-color: var(--primary-color);
     
     
 }
@@ -90,4 +92,16 @@ padding: 1rem 1rem;
     font-size: larger;
     padding: 1rem 1rem;
     color: var(--secondary-color);
+}
+#exp-btn{
+
+        background-color: var(--primary-color);
+        color: white;
+        border-radius: 1rem;
+        padding: 0.5rem 0.5rem;
+        width: 9%;
+        height: 3%;
+        border-color: var(--secondary-color);
+        margin-left: 40rem;
+
 }
