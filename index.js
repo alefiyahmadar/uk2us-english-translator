@@ -37,6 +37,6 @@ function errorHandler(error){
 
 }
 
-var sampleBtn=addEventListener("dblclick" , eventHandleri)    
-var btnTranslate=addEventListener("click" , eventHandler)
+ sampleBtn.addEventListener("click" , eventHandleri)    
+ btnTranslate.addEventListener("click" , eventHandler)
 
