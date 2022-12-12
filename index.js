@@ -27,7 +27,7 @@ function constructURL(text){
     
 function eventHandleri(){
 
-    inputTxt.innerText="The artefacts of the behavioural elements cancelled the commercialised monotone"
+    inputTxt.value="The artefacts of the behavioural elements cancelled the commercialised monotone"
 }
 
 function errorHandler(error){
